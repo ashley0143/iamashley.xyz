@@ -10,10 +10,6 @@ import { Link } from "wouter";
 */
 
 export default function Home() {
-  /* We use state to set the hello string from the array https://reactjs.org/docs/hooks-state.html
-     - We'll call setHello when the user clicks to change the string
-  */
-  };
   return (
    <>
   &gt;
@@ -144,5 +140,6 @@ export default function Home() {
   
 </>
 
+);
     
 }
