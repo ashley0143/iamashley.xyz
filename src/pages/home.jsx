@@ -3,20 +3,6 @@ import { animated } from "react-spring";
 import { useWiggle } from "../hooks/wiggle";
 import { Link } from "wouter";
 
-// Our language strings for the header
-const strings = [
-  "Hello React",
-  "Salut React",
-  "Hola React",
-  "안녕 React",
-  "Hej React"
-];
-
-// Utility function to choose a random value from the language array
-function randomLanguage() {
-  return strings[Math.floor(Math.random() * strings.length)];
-}
-
 /**
 * The Home function defines the content that makes up the main content of the Home page
 *
@@ -98,6 +84,7 @@ export default function Home() {
               <p id="text07" className="style3">
                 <span>An trans developer from der türkei</span>
                 <br /> <span>she/her</span>
+                <br /> <span>🇨🇭/🇹🇷</span>
               </p>
               <ul id="buttons02" className="style1 buttons">
                 <li>
