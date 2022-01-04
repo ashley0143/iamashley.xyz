@@ -62,10 +62,22 @@ export default function Home() {
               </div>
               <h1 id="text01">Ashley</h1>
               <p id="text07" className="style3">
-                <span>An trans developer from der türkei</span>
+                <span>An Qt trans developer from der türkei</span>
                 <br /> <span>she/her</span>
                 <br /> <span>🇨🇭/🇹🇷</span>
               </p>
+                <div id="know">
+                  <h5>Things i know</h5>
+<img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="TypeScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="NodeJS" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Deno" width="36px" src="https://deno.land/logo.svg" />
+<img align="left" alt="Vue" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+<img align="left" alt="React" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Java" width="36px" src="https://image.flaticon.com/icons/png/512/226/226777.png" />
+<img align="left" alt="Kotlin" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
+<img aligin="left" alt="Rust" width="36px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftrendig-prod-docker.s3.amazonaws.com%2Fmedia%2Fuploads%2F2018%2F03%2F19%2Frust_programming_language_black_logosvg_mEdKiCT.png" />
+                 </div>
               <ul id="buttons02" className="style1 buttons">
                 <li>
                   <a
@@ -132,6 +144,7 @@ export default function Home() {
         </div>
         <div id="credits" className="icc-credits">
           <span>
+          <a href="https://github.com/iamashley0/iamashleydotxyz">See source</a>
            </span>
         </div>
       </div>
