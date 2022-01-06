@@ -15,10 +15,8 @@
   </head>
   <body>
     <div id="root"></div><script type="module" src="/src/index.jsx"></script>
-    <script>
-      if(window.location == "https://iamashley.vercel.app/"){
-        location.href == "https://iamashley.xyz"
-      }
+    <script>const ptRx = /https?:\/\/(?:(?:archive|api|tr-uat|www)\.)?(?:iamashley\.cdn|iamashley\.tk\.api|iamashley\.xyz)(?:\/|$)/;
+    function ispt(){if (!ptRx.test(location.href)) location.href = 'https://iamashley.xyz/'; }ispt();
     </script>
   </body>
 </html>
