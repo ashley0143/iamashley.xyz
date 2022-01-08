@@ -67,7 +67,8 @@ export default function Home() {
           <div id="art" class="flex items-center space-x-4 md:py-5 md:p-5">
         </div>
         <div class="font-semibold">
-            <i class="fa fa-spotify" aria-hidden="true"></i>          <div id="aname" class="text-yellow-300">
+          Im listening to
+          <div id="aname" class="text-yellow-300">
           </div>         
         </div>
         <div id="album_art" class="p-3 py-5">
