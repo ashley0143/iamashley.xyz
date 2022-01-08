@@ -61,24 +61,23 @@ export default function Home() {
                 </span>
               </div>
               <h1 id="text01">Ashley</h1>
-              <p id="text07" className="style3">
-                <span>An Qt trans developer from der türkei</span>
-                <br /> <span>she/her</span>
-                <br /> <span>🇨🇭/🇹🇷</span>
-  <div id="game" class="hidden">
+ <div id="game" class="hidden">
         <div class="flex items-center p-2 rounded-xl">
           <div id="art" class="flex items-center space-x-4 md:py-5 md:p-5">
         </div>
         <div class="font-semibold">
             <i class="fa fa-spotify" aria-hidden="true"></i>
-            I'm listening to
-          <div id="aname" class="text-yellow-300">
+            <div id="aname" class="text-yellow-300">
           </div>         
         </div>
         <div id="album_art" class="p-3 py-5">
         </div>
       </div>
      </div>
+              <p id="text07" className="style3">
+                <span>An Qt trans developer from der türkei</span>
+                <br /> <span>she/her</span>
+                <br /> <span>🇨🇭/🇹🇷</span>
               </p>               
               <ul id="buttons02" className="style1 buttons">
                 <li>
