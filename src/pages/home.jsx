@@ -64,11 +64,6 @@ export default function Home() {
               <p id="text07" className="style3">
 <div
   id="game"
-  style={{
-    display: '"flex"',
-    alignitems: '"center"',
-    justifycontent: '"center"'
-  }}
   classname="hidden"
 >
   <div classname="flex items-center p-2 rounded-xl">
