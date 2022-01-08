@@ -74,9 +74,9 @@ export default function Home() {
         </div>
         <div id="album_art" class="p-3 py-5">
         </div>
-</center>
       </div>
      </div>
+                <(center>
                 <span>An Qt trans developer from der türkei</span>
                 <br /> <span>she/her</span>
                 <br /> <span>🇹🇷/🇬🇧/🇩🇪</span>
