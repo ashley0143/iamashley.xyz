@@ -62,21 +62,21 @@ export default function Home() {
               </div>
               <h1 id="text01">Ashley</h1>
               <p id="text07" className="style3">
-                <center>
-                <div id="game" class="hidden">
-        <div class="flex items-center p-2 rounded-xl">
-          <div id="art" class="flex items-center space-x-4 md:py-5 md:p-5">
-        </div>
-        <div class="font-semibold">
-          Im listening to
-          <div id="aname" class="text-yellow-300">
-          </div>         
-        </div>
-        <div id="album_art" class="p-3 py-5">
-        </div>
+          ;<center>
+  <div id="game" className="hidden">
+    <div className="flex items-center p-2 rounded-xl">
+      <div
+        id="art"
+        className="flex items-center space-x-4 md:py-5 md:p-5"
+      ></div>
+      <div className="font-semibold">
+        Im listening to
+        <div id="aname" className="text-yellow-300"></div>
       </div>
-     </div>
-                <(center>
+      <div id="album_art" className="p-3 py-5"></div>
+    </div>
+  </div>
+</center>
                 <span>An Qt trans developer from der türkei</span>
                 <br /> <span>she/her</span>
                 <br /> <span>🇹🇷/🇬🇧/🇩🇪</span>
