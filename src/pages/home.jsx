@@ -63,17 +63,17 @@ export default function Home() {
     <script src="https://global-assets.iamashley.xyz/js/spotify.js"></script>
               <h1 id="text01">Ashley</h1>
               <p id="text07" className="style3">
-   ;<div id="game" classname="hidden">
+   <div id="game" classname="hidden">
   <div classname="flex items-center p-2 rounded-xl">
     <div id="art" classname="flex items-center space-x-4 md:py-5 md:p-5" />
     <div classname="font-semibold">
       I'm listening to
-      <div
+      <p
         id="aname"
         classname="text-yellow-300"
         style={{ textAlign: "center" }}
       />
-    </div>
+    </p>
     <div id="album_art" classname="p-3 py-5" />
   </div>
 </div>
