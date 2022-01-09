@@ -68,12 +68,11 @@ export default function Home() {
     <div id="art" classname="flex items-center space-x-4 md:py-5 md:p-5" />
     <div classname="font-semibold">
       I'm listening to
-      <p
+      <div
         id="aname"
         classname="text-yellow-300"
-        style={{ textAlign: "center" }}
       />
-    </p>
+    </div>
     <div id="album_art" classname="p-3 py-5" />
   </div>
 </div>
