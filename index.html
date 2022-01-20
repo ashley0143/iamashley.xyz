@@ -14,20 +14,8 @@
     <link href="https://fonts.googleapis.com/css?family=Manrope:500,500italic%7CInter:200,200italic,400,400italic" el="stylesheet" type="text/css"/>
   </head>
   <body>
-  <noscript><strong>You need to enable JavaScript to run this app. Please enable it to continue.</strong></noscript><div id="root"></div><script type="module" src="/src/index.jsx"></script><script>
-    function write(path){
-      var base_url = "https://global-assets.iamashley.xyz"
-      var base_path = "/js"
-      document.write(`<script src="${base_url}${base_path}/${path}"></\script>`)
-      }
-    
-    function isVercel(){
-       const vlRx = /https?:\/\/(?:(?:iamashley|tr-stg|tr-uat|www)\.)?(?:vercel\.cdn|vercel\.tk\.api|vercel\.app)(?:\/|$)/;
-       if(vlRx.test(location.href)){
-          location.href = "https://iamashley.xyz"
-         }
-      }
-      isVercel();write("spotify.js");
-    </script>
-  </body>
+  <noscript><strong>You need to enable JavaScript to run this app. Please enable it to continue.</strong></noscript><div id="root"></div><script type="module" src="/src/index.jsx"></script>
+    <!-- Scripts --->
+    <script src="https://global-assets.iamashley.xyz/js/script.js"></script>
+   </body>
 </html>
