@@ -13,14 +13,7 @@ export default function Home() {
   return (
    <>
   &gt;
-  
-  <noscript>
-    &lt;style&gt;body {"{"}overflow: auto !important;{"}"}body:after {"{"}
-    display: none !important;{"}"}#main &gt; .inner {"{"}opacity: 1.0
-    !important;{"}"}#main {"{"}opacity: 1.0 !important;transform: none
-    !important;transition: none !important;filter: none !important;{"}"}
-    &lt;/style&gt;
-  </noscript>
+   
   <svg
     xmlns="http://www.w3.org/2000/svg"
     version="1.1"
@@ -141,6 +134,7 @@ export default function Home() {
         <div id="credits" className="icc-credits">
           <span>
           <a href="https://github.com/iamashley0/iamashleydotxyz">See source</a>
+          <a href="https://github.com/iamashley0/iamashleydotxyz/archive/refs/tags/1.2.1-rb1.tar.gz">Download the source</a>
            </span>
         </div>
       </div>
