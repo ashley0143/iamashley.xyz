@@ -63,7 +63,7 @@ export default function Home() {
         </div>
       </div>
      </div>
-                <span>An Qt trans developer from der türkei</span>
+                <span>An Qt trans developer from die Türkei</span>
                 <br /> <span>she/her</span>
                 <br /> <span>🇹🇷/🇬🇧/🇩🇪</span>
               </p>               
