@@ -64,7 +64,7 @@ export default function Home() {
       </div>
      </div>
                 <span>An Qt trans developer from die Türkei</span>
-                <br /> <span>she/her</span>
+                <br /> <span>she/her (sie)</span>
                 <br /> <span>🇹🇷/🇬🇧/🇩🇪</span>
               </p>               
               <ul id="buttons02" className="style1 buttons">
@@ -134,7 +134,7 @@ export default function Home() {
         <div id="credits" className="icc-credits">
           <span>
           <a href="https://github.com/iamashley0/iamashleydotxyz">See source</a>
-          <a href="https://github.com/iamashley0/iamashleydotxyz/archive/refs/tags/1.2.1-rb1.tar.gz">Download the source</a>
+          <a href="https://github.com/iamashley0/iamashleydotxyz/archive/refs/heads/main.zip">Download the source (zip)</a>
            </span>
         </div>
       </div>
